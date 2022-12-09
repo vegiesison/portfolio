@@ -112,11 +112,12 @@ a:hover{
 }
 
 img{
-    display: block;
     height: 40rem;
     width: 40rem;
     object-fit: cover;
     border-radius: 320px;
+    text-align: center;
+    margin-top: 2rem;
 }
 
 
@@ -132,10 +133,6 @@ img{
     }
 }
 
-.me{
-    width: 60%;
-    margin-top: -20rem;
-    display: block;
-    margin-left: 23rem;
-    
+.header__socials a{
+    padding: 0.5rem;
 }
